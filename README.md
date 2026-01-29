@@ -86,5 +86,6 @@ These datasets support dashboards for:
 - Combining clustering with business interpretation yields robust, actionable segments
 - Clean data modeling is critical for scalable BI reporting
 
-![Image](sales_report.jpg)
+[![Sales Dashboard Screenshot](sales_report.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZmEyM2ZlNmUtM2Q2OC00OThhLWFlMmMtMWE1MzVlNDZhNTM3IiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9)
+
 
